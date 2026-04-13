@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/backend/" />
+  <Folder Name="/backend/src/" />
+  <Folder Name="/backend/src/core/">
+    <Project Path="UserExplorer.Core.Application/UserExplorer.Core.Application.csproj" />
+    <Project Path="UserExplorer.Core.Domain/UserExplorer.Core.Domain.csproj" />
+  </Folder>
+  <Folder Name="/backend/src/Infrastructure/">
+    <Project Path="UserExplorer.Infrastructure.Persistence/UserExplorer.Infrastructure.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/backend/src/WebApi/">
+    <Project Path="UserExplorer.WebApi/UserExplorer.WebApi.csproj" />
+  </Folder>
+  <Folder Name="/frontend/" />
+</Solution>
