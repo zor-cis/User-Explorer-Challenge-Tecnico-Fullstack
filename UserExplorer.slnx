@@ -11,5 +11,10 @@
   <Folder Name="/backend/src/WebApi/">
     <Project Path="UserExplorer.WebApi/UserExplorer.WebApi.csproj" />
   </Folder>
-  <Folder Name="/frontend/" />
+  <Folder Name="/frontend/">
+    <Project Path="UserExplorer.UI/userexplorer.ui.esproj">
+      <Build />
+      <Deploy />
+    </Project>
+  </Folder>
 </Solution>

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Zorcis Estefani\\Desktop\\UserExplorer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA81AE4D-5BE5-25B8-D516-840FE50FE987}|UserExplorer.WebApi\\UserExplorer.WebApi.csproj|c:\\users\\zorcis estefani\\desktop\\userexplorer\\userexplorer.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA81AE4D-5BE5-25B8-D516-840FE50FE987}|UserExplorer.WebApi\\UserExplorer.WebApi.csproj|solutionrelative:userexplorer.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0B21057-464F-4E1A-DEB7-3B4B493979AF}|UserExplorer.UI\\userexplorer.ui.esproj|c:\\users\\zorcis estefani\\desktop\\userexplorer\\userexplorer.ui\\src\\components\\userlist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C0B21057-464F-4E1A-DEB7-3B4B493979AF}|UserExplorer.UI\\userexplorer.ui.esproj|solutionrelative:userexplorer.ui\\src\\components\\userlist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{177DD2D3-0DAA-F550-F6F7-C9E9E410EC45}|UserExplorer.Core.Application\\UserExplorer.Core.Application.csproj|c:\\users\\zorcis estefani\\desktop\\userexplorer\\userexplorer.core.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{177DD2D3-0DAA-F550-F6F7-C9E9E410EC45}|UserExplorer.Core.Application\\UserExplorer.Core.Application.csproj|solutionrelative:userexplorer.core.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0B21057-464F-4E1A-DEB7-3B4B493979AF}|UserExplorer.UI\\userexplorer.ui.esproj|c:\\users\\zorcis estefani\\desktop\\userexplorer\\userexplorer.ui\\src\\components\\userform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C0B21057-464F-4E1A-DEB7-3B4B493979AF}|UserExplorer.UI\\userexplorer.ui.esproj|solutionrelative:userexplorer.ui\\src\\components\\userform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B21057-464F-4E1A-DEB7-3B4B493979AF}|UserExplorer.UI\\userexplorer.ui.esproj|c:\\users\\zorcis estefani\\desktop\\userexplorer\\userexplorer.ui\\src\\pages\\userspage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C0B21057-464F-4E1A-DEB7-3B4B493979AF}|UserExplorer.UI\\userexplorer.ui.esproj|solutionrelative:userexplorer.ui\\src\\pages\\userspage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B21057-464F-4E1A-DEB7-3B4B493979AF}|UserExplorer.UI\\userexplorer.ui.esproj|c:\\users\\zorcis estefani\\desktop\\userexplorer\\userexplorer.ui\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C0B21057-464F-4E1A-DEB7-3B4B493979AF}|UserExplorer.UI\\userexplorer.ui.esproj|solutionrelative:userexplorer.ui\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Zorcis Estefani\\Desktop\\UserExplorer\\UserExplorer.WebApi\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "UserExplorer.WebApi\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Zorcis Estefani\\Desktop\\UserExplorer\\UserExplorer.WebApi\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "UserExplorer.WebApi\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T01:53:43.46Z",
+              "Title": "UserList.tsx",
+              "DocumentMoniker": "C:\\Users\\Zorcis Estefani\\Desktop\\UserExplorer\\userexplorer.ui\\src\\components\\UserList.tsx",
+              "RelativeDocumentMoniker": "userexplorer.ui\\src\\components\\UserList.tsx",
+              "ToolTip": "C:\\Users\\Zorcis Estefani\\Desktop\\UserExplorer\\userexplorer.ui\\src\\components\\UserList.tsx",
+              "RelativeToolTip": "userexplorer.ui\\src\\components\\UserList.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-13T19:42:49.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Zorcis Estefani\\Desktop\\UserExplorer\\UserExplorer.Core.Application\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "UserExplorer.Core.Application\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Zorcis Estefani\\Desktop\\UserExplorer\\UserExplorer.Core.Application\\Services\\UserService.cs",
-              "RelativeToolTip": "UserExplorer.Core.Application\\Services\\UserService.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAUwIIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T01:43:21.575Z",
+              "Title": "UserForm.tsx",
+              "DocumentMoniker": "C:\\Users\\Zorcis Estefani\\Desktop\\UserExplorer\\userexplorer.ui\\src\\components\\UserForm.tsx",
+              "RelativeDocumentMoniker": "userexplorer.ui\\src\\components\\UserForm.tsx",
+              "ToolTip": "C:\\Users\\Zorcis Estefani\\Desktop\\UserExplorer\\userexplorer.ui\\src\\components\\UserForm.tsx",
+              "RelativeToolTip": "userexplorer.ui\\src\\components\\UserForm.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-13T19:42:11.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersPage.tsx",
+              "DocumentMoniker": "C:\\Users\\Zorcis Estefani\\Desktop\\UserExplorer\\userexplorer.ui\\src\\pages\\UsersPage.tsx",
+              "RelativeDocumentMoniker": "userexplorer.ui\\src\\pages\\UsersPage.tsx",
+              "ToolTip": "C:\\Users\\Zorcis Estefani\\Desktop\\UserExplorer\\userexplorer.ui\\src\\pages\\UsersPage.tsx",
+              "RelativeToolTip": "userexplorer.ui\\src\\pages\\UsersPage.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-13T19:39:43.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\Zorcis Estefani\\Desktop\\UserExplorer\\userexplorer.ui\\src\\main.tsx",
+              "RelativeDocumentMoniker": "userexplorer.ui\\src\\main.tsx",
+              "ToolTip": "C:\\Users\\Zorcis Estefani\\Desktop\\UserExplorer\\userexplorer.ui\\src\\main.tsx",
+              "RelativeToolTip": "userexplorer.ui\\src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-13T19:39:38.23Z",
               "EditorCaption": ""
             }
           ]
